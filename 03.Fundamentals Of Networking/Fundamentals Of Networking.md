@@ -2,7 +2,7 @@
 
 # Contents
 
-- [Brief history](#Brief_history)
+- [Brief History Of Internet](#Brief_history_of_Internet)
 - [Need of Address](#Need_of_Address)
 - [Client-Server Model](#Client-Server_Model)
 - [Protocol Stack and Packets](#Protocol_Stack_and_Packets)
@@ -11,7 +11,7 @@
 - [Understand request for www.google.com](#Understand_request_for_www.google.com)
 - [Protocols](#Protocols)
 
-## Brief history
+## Brief history Of Internet
 
 ----
 ## Need of Address
