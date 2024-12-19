@@ -11,7 +11,7 @@
 - [Understand request for www.google.com](#Understand_request_for_www.google.com)
 - [Protocols](#Protocols)
 
-## Brief history Of Internet
+## Brief History Of Internet
 
 ----
 ## Need of Address
