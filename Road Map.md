@@ -2,9 +2,9 @@
 # Full-Stack Development Course Roadmap
 
  <p align="center">
-   Index
+   INDEX
  </p>
----
+
 
 ## 1. **Intro to Web Development**
 - Introduction
