@@ -4,7 +4,7 @@ Course Content
 ---
 
 ## 1. **Intro to Web Development**
-- Introduction
+- [Introduction](#Introduction)
 - Instructor introduction
 - What is Web?
 - What is Web Development?
