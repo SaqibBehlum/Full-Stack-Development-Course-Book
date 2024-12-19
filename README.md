@@ -1,5 +1,5 @@
 
-# Full-Stack Engineering Course 
+# Full-Stack Development Course 
 
 **Your Full-Stack Development Guide**
 From frontend designs to backend logic, it’s all here.
