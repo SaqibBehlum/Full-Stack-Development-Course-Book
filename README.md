@@ -5,13 +5,13 @@ Course Content
 
 ## 1. **Intro to Web Development**
 - [Introduction](#Introduction)
-- Instructor introduction
-- What is Web?
-- What is Web Development?
-- Websites and Web Apps
-- Breaking a Web App
-- What is Full Stack Web Development?
-- How can you take the BEST out of this course?
+- [Instructor introduction](#Instructor introduction)
+- [What is Web?](#What is Web?)
+- [What is Web Development?](#What is Web Development?)
+- [Websites and Web Apps](#Websites and Web Apps)
+- [Breaking a Web App](#Breaking a Web App)
+- [What is Full Stack Web Development?](#What is Full Stack Web Development?)
+- [How can you take the BEST out of this course?](#How can you take the BEST out of this course?)
 
 ---
 
