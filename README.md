@@ -1,7 +1,11 @@
 
 # Full-Stack Engineering Course 
 
-- Here is my learning progress and als,I will share here link of folder through click on you will direct jump on the folder
+**Your Full-Stack Development Guide**
+From frontend designs to backend logic, it’s all here.
+Step-by-step tutorials, projects, and resources.
+Perfect for beginners and aspiring full-stack developers.
+Let’s code, connect, and create together!
 
 # Table of Contents
 
