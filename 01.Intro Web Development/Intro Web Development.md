@@ -2,12 +2,12 @@
 # Contents
   - [Introduction](#Introduction)
   - [Instructor Introduction](#Instructor_Introduction)
-  - [What is Web ?](#What_is_Web?)
-  - [What is Web Development ?](#What_is_Web_Development?)
+  - [What is Web?](#What_is_Web?)
+  - [What is Web Development?](#What_is_Web_Development?)
   - [Websites and Web Apps](#Websites_and_Web_Apps)
   - [Breaking a Web App](#Breaking_a_Web_App)
-  - [What is Full Stack Web Development ?](#What_is_Full_Stack_Web_Wevelopment?)
-  - [How can you take the BEST out of this course ?](#How_can_you_take_the-BEST_out_of_this_ourse?)
+  - [What is Full Stack Web Development?](#What_is_Full_Stack_Web_Wevelopment?)
+  - [How can you take the BEST out of this course?](#How_can_you_take_the-BEST_out_of_this_ourse?)
 ------   
 ## Introduction
 - Welcome to the Full Stack Development Course, where you'll learn to design, build, and deploy dynamic web applications from start to 
@@ -18,13 +18,13 @@
 - You can connect :
   - [LinkedIn](https://www.linkedin.com/in/saifullah-khan-4aa554231/)
 ------
-## What is Web
+## What is Web?
 - The web is a system that lets you visit and interact with websites using the internet
 - It works like this:
   - **Web Pages**  : These are online pages with text, images, or videos
   - **Web Browser**: An app like Chrome or Safari helps you open these pages. 
 ------
-## What is Web Development ?
+## What is Web Development?
 - Web development is the process of building and maintaining websites.
 - It includes everything needed to make a website work and look good
 ------
@@ -45,10 +45,10 @@
   - 4 . **DataBase Layer**  : A database is a place to store and organize information so it can be easily accessed, managed, and updated.
        - *Example Of Language* : (SQL or No SQL), MongoDB   
 ------
-## What is Full Stack Web Development ?
+## What is Full Stack Web Development?
 - Full Stack Development is the process of building both the Front-End,*The part users see and interact with* and The Back-End, the server, Database, and logic that make the app work of a web application.
 ------
-## How can you take the BEST out of this course ?
+## How can you take the BEST out of this course?
 - Understand The Basics
 - Understand Throug Logic
 - Be Practices Of Coding
