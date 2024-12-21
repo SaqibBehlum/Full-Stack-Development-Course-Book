@@ -4,15 +4,14 @@
 **Your Full-Stack Development Guide**
 From frontend designs to backend logic, it’s all here.
 Step-by-step tutorials, projects, and resources.
-Perfect for beginners and aspiring full-stack developers.
-Let’s code, connect, and create together!
+
 
 # Table of Contents
 
-1. [Intro to Web Development](/01_IntroToWebDevelopment/01.IntroWebDevelopment.md)
-2. [Computer Networking Basics](./02_Computer%20Networking)
-   - [History Of Computer Network](./03_HistoryOfComputerNetworking)
-3. [Frontend Development](#3-frontend-development)
+1. [Intro to Web Development](/01.IntroWebDevelopment/IntroWebDevelopment.md)
+2. [Computer Network]()
+   - [Fundamental Of Network]()
+3. [Frontend Development](#)
    - [HTML](./04_Frontend/HTML)
    - [CSS](#html-and-css)
    - [JavaScript](#javascript)
