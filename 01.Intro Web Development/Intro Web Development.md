@@ -1,29 +1,29 @@
 # 1. **Introduction Of Web Development**
 # Contents
  - [Introduction](#Introduction)
- - [Instructor Introduction](#Instructor_Introduction)
+ - [Instructor Introduction](#instructor-introduction)
  - [What is Web?](#What_is_Web?)
  - [What is Web Development?](#What_is_Web_Development?)
  - [Websites and Web Apps](#Websites_and_Web_Apps)
  - [Breaking a Web App](#Breaking_a_Web_App)
  - [What is Full Stack Web Development?](#What_is_Full_Stack_Web_Wevelopment?)
  - [How can you take the BEST out of this course?](#How_can_you_take_the-BEST_out_of_this_ourse?)
- 
+------
 ## Introduction
 - Welcome to the Full Stack Development Course, where you'll learn to design, build, and deploy dynamic web applications from start to 
   finish! This course is tailored for aspiring developers who want to gain comprehensive skills in both frontend and backend development. 
-
+------
 ## Instructor Introduction
 - **Saifullah Khan**: Full-stack developer from Peshawar, Working at **USA Based  Company**.
 - You can connect :
   - [LinkedIn](https://www.linkedin.com/in/saifullah-khan-4aa554231/)
-
+------
 ## What is Web?
 - The web is a system that lets you visit and interact with websites using the internet
 - It works like this:
   - **Web Pages**  : These are online pages with text, images, or videos
   - **Web Browser**: An app like Chrome or Safari helps you open these pages. 
-
+------
 ## What is Web Development?
 - Web development is the process of building and maintaining websites.
 - It includes everything needed to make a website work and look good
