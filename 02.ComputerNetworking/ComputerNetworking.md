@@ -14,33 +14,34 @@
   
 
 ## Introduction
-
+- In this Lecture we will dive in Networking
 
 -----
 ## What is Network?
-
+- A network is a group of connected devices, like computers, phones, or servers, that can share information and resources with each other.
 
 ----
 ## Types Of Network
-
-1. -LAN
-2. -MAM
-3. -WAN
-
-
+- There are 3 types of Network :
+1. - **LAN**: A  Local Area Network (LAN) is a network that connects devices within a limited area, such as a home, office, or school. It 
+              is used for sharing resources like printers, files, or internet access.
+2. - **MAN**: A  Metropolitan Area Network (MAN) is a larger network that spans a city or metropolitan area. It connects multiple LANs 
+              and 
+             is often managed by a single organization or government.
+3. - **WAN**: A Wide Area Network (WAN) is a network that connects devices over a large geographical area, such as cities, countries, or 
+             continents. The Internet is the largest example of a WAN.
 ----
 ## Internet?
-
-
+- The Internet is a global network that connects millions of smaller networks, including computers, phones, and other devices, allowing them to communicate and share information. It uses standard communication protocols like TCP/IP to exchange data.
 ----
 ## World Wide Web?
-
+- The World Wide Web (WWW) is a system of information on the Internet that allows people to access and share content, such as text, images, and videos. It works through web browsers like Chrome or Firefox, using links to connect different pages.
 -----
 ## IP Address?
-
-Version
-1. -V4
-2. -V6
+- An IP address (Internet Protocol address) is a unique set of numbers assigned to each device connected to a network. It identifies the device and allows it to communicate with other devices over the internet or a local network.- 
+**Version**:
+1. - *V4* : 
+2. - *V6* :
 
 
 ----
