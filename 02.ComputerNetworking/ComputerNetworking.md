@@ -9,7 +9,7 @@
 - [Browser?](#browser)
 - [Browser Engine?](#browser-engine)
 - [Client and Server?](#client-and-server)
-- [What is www.facebook.com?, Domain](#what-is-wwwfacebookcom-domain)
+- [What is www.facebook.com? (Domain)](#what-is-wwwfacebookcom-domain)
 - [What is www.google.com?](#what-is-wwwgooglecom)
   
 
@@ -67,7 +67,7 @@
 -----
 ## www.facebook.com (Domain)?
  -A domain name is a readable address (like www.facebook.com) used to find websites on the internet. It is translated into an IP address (a unique number) by the Domain Name System (DNS), allowing your browser to connect to the website’s server and display the content.
-![](/
+![](/Image/how-do-domain-names-work-.png)
 ------
 
 ## www.google.com? 
