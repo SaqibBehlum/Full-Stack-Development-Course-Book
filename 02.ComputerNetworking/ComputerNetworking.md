@@ -58,14 +58,20 @@
   Example:  Google Chrome, Mozilla Firefox
 ----
 ## Client and Server?
- ![](/
+ ![](/Image/client-server-.png)
+ 
+ - **Client**: A client is a device or application that requests services or data from a server. It’s the user-facing part of a system.
+               Examples: Web browsers, mobile apps, or a computer accessing a website.
+ - **Server**: A server is a computer or software that provides services or data to clients.
+              Examples: A web server hosting a website or a database server storing information. 
 -----
-
-## www.facebook.com?
-
+## www.facebook.com (Domain)?
+ -A domain name is a readable address (like www.facebook.com) used to find websites on the internet. It is translated into an IP address (a unique number) by the Domain Name System (DNS), allowing your browser to connect to the website’s server and display the content.
+![](/
 ------
 
 ## www.google.com? 
+- Simillar as facebook 
 
 
 
