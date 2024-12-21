@@ -2,12 +2,12 @@
 # Contents
  - [Introduction](#Introduction)
  - [Instructor Introduction](#instructor-introduction)
- - [What is Web?](#what-is-web?)
- - [What is Web Development?](#what-is-web-development?)
+ - [What is Web?](#what-is-web)
+ - [What is Web Development?](#what-is-web-development)
  - [Websites and Web Apps](#Websites-and-web-apps)
  - [Breaking a Web App](#breaking-a-web-app)
- - [What is Full Stack Web Development?](#what-is-full-stack-eeb-development?)
- - [How can you take the BEST out of this course?](#how-can-you-take-the-best-out-of-this-ourse?)
+ - [What is Full Stack Web Development?](#what-is-full-stack-web-development)
+ - [How can you take the BEST out of this course?](#how-can-you-take-the-best-out-of-this-ourse)
 ------
 ## Introduction
 - Welcome to the Full Stack Development Course, where you'll learn to design, build, and deploy dynamic web applications from start to 
