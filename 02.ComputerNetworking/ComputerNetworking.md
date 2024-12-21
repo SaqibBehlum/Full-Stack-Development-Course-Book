@@ -7,8 +7,8 @@
 - [World Wide Web?](#world-wide-web)
 - [IP Address?(versions)](#ip-address-version)
 - [Browser?](#browser)
-- [Browser Engine?](#browser-engine?)
-- [Client and Server?](#client-and-server?)
+- [Browser Engine?](#browser-engine)
+- [Client and Server?](#client-and-server)
 - [www.facebook.com?](#www.facebook.com)
 - [www.google.com?](#www.google.com)
 
@@ -16,7 +16,7 @@
 
 
 -----
-## What is Network ?
+## What is Network?
 
 
 ----
@@ -28,14 +28,14 @@
 
 
 ----
-## Internet ?
+## Internet?
 
 
 ----
-## World Wide Web ?
+## World Wide Web?
 
 -----
-## IP Address ?
+## IP Address?
 
 Version
 1. -V4
