@@ -32,32 +32,33 @@
              continents. The Internet is the largest example of a WAN.
 ----
 ## Internet?
-- The Internet is a global network that connects millions of smaller networks, including computers, phones, and other devices, allowing them to communicate and share information. It uses standard communication protocols like TCP/IP to exchange data.
+- The Internet is a global network that connects millions of smaller networks, including computers, phones, and other devices, allowing 
+  them to communicate and share information. It uses standard communication protocols like TCP/IP to exchange data.
 ----
 ## World Wide Web?
-- The World Wide Web (WWW) is a system of information on the Internet that allows people to access and share content, such as text, images, and videos. It works through web browsers like Chrome or Firefox, using links to connect different pages.
+- The World Wide Web (WWW) is a system of information on the Internet that allows people to access and share content, such as text, 
+  images, and videos. It works through web browsers like Chrome or Firefox, using links to connect different pages.
 -----
 ## IP Address?
-- An IP address (Internet Protocol address) is a unique set of numbers assigned to each device connected to a network. It identifies the device and allows it to communicate with other devices over the internet or a local network.- 
-**Version**:
-1. - *V4* : 
-2. - *V6* :
+- An IP address (Internet Protocol address) is a unique set of numbers assigned to each device connected to a network. It identifies the 
+  device and allows it to communicate with other devices over the internet or a local network.
 
-
+- **Version**:
+  
+  ![](/Image/IPv4-vs-IPv6.png)
 ----
-
 ## Browser
-
+- A browser is a software application that allows you to access and view websites on the internet. It interprets web code (like HTML, 
+  CSS, and JavaScript) to display content such as text, images, and videos.
+  Examples of Browsers: Google Chrome, Mozilla Firefox
 ----
 
 ## Browser Engine 
-
-
-
+- A browser engine is a core part of a web browser that takes web content
+  Example:  Google Chrome, Mozilla Firefox
 ----
-
 ## Client and Server?
-
+ ![](/
 -----
 
 ## www.facebook.com?
