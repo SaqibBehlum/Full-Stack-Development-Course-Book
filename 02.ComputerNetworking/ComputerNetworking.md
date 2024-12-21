@@ -2,7 +2,7 @@
 # Contents
 - [Introduction](#introduction)
 - [What is Network?](#what-is-network)
-- [What is a Network? (LAN, MAN, WAN)](#what-is-a-network-lan-man-wan)
+- [Types Of Network](#types-of-network)
 - [Internet?](#internet)
 - [World Wide Web?](#world-wide-web)
 - [IP Address? (versions)](#ip-address-versions)
@@ -39,7 +39,7 @@
 - The World Wide Web (WWW) is a system of information on the Internet that allows people to access and share content, such as text, 
   images, and videos. It works through web browsers like Chrome or Firefox, using links to connect different pages.
 -----
-## IP Address?
+## IP Address? (versions)?
 - An IP address (Internet Protocol address) is a unique set of numbers assigned to each device connected to a network. It identifies the 
   device and allows it to communicate with other devices over the internet or a local network.
 
@@ -65,12 +65,12 @@
  - **Server**: A server is a computer or software that provides services or data to clients.
               Examples: A web server hosting a website or a database server storing information. 
 -----
-## www.facebook.com (Domain)?
+## What is www.facebook.com? (Domain)
  - A domain name is a readable address (like www.facebook.com) used to find websites on the internet. It is translated into an IP address (a unique number) by the Domain Name System (DNS), allowing your browser to connect to the website’s server and display the content.
 ![](/Image/how-do-domain-names-work-.png)
 ------
 
-## www.google.com? 
+## What is www.google.com? 
 - Simillar as facebook 
 
 
