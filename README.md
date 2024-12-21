@@ -12,7 +12,7 @@ Step-by-step tutorials, projects, and resources.
 2. [Computer Networking](02.ComputerNetworking/ComputerNetworking.md)
    - [Fundamentals Of Networking](03.FundamentalsOfNetworking/FundamentalsOfNetworking.md)
 3. [Frontend Development](04.Fronted)
-   - [HTML](./04_Frontend/HTML)
+   - [HTML](04.Fronted/HTML)
    - [CSS](#html-and-css)
    - [JavaScript](#javascript)
    - [Physics and Math in Programming](#physics-and-math-in-programming)
