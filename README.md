@@ -8,7 +8,7 @@ Step-by-step tutorials, projects, and resources.
 
 # Table of Contents
 
-1. [Intro to Web Development](01.IntroWebDevelopment/IntroWebDevelopment.md)
+1. [Intro to Web Development](01.IntroWebDevelopment/)
 2. [Computer Networking]()
    - [Fundamentals Of Networking]()
 3. [Frontend Development](#)
