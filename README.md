@@ -9,7 +9,7 @@ Let’s code, connect, and create together!
 
 # Table of Contents
 
-1. [Intro to Web Development](/01_IntroToWebDevelopment/IntroWebDevelopment.md)
+1. [Intro to Web Development](/01_IntroToWebDevelopment/01.IntroWebDevelopment.md)
 2. [Computer Networking Basics](./02_Computer%20Networking)
    - [History Of Computer Network](./03_HistoryOfComputerNetworking)
 3. [Frontend Development](#3-frontend-development)
