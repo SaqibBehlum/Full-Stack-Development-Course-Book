@@ -1,16 +1,16 @@
 # Computer Networking
 # Contents
-- [Introduction](#Introduction)
-- [What is Network ?](#what_is_Network?)
-- [Types Of Network(LAN,MAN,WAN)](#types_of_network_lan_wan_man)
-- [Internet ?](#Internet?)
-- [World Wide Web ?](#World_Wide_Web?)
-- [IP Address ?(versions)](#Ip_Address?_version)
-- [Browser ?](#Browser?)
-- [Browser Engine ?](#Browser_Engine?)
-- [Client and Server ?](#Client_and_Server?)
-- [www.facebook.com ?](#www.facebook.com)
-- [www.google.com ?](#www.google.com)
+- [Introduction](#introduction)
+- [What is Network?](#what-is-network)
+- [Types Of Network(LAN,MAN,WAN)](#types-of-network-lan-wan-man)
+- [Internet?](#internet)
+- [World Wide Web?](#world-wide-web)
+- [IP Address?(versions)](#ip-address-version)
+- [Browser?](#browser)
+- [Browser Engine?](#browser-engine?)
+- [Client and Server?](#client-and-server?)
+- [www.facebook.com?](#www.facebook.com)
+- [www.google.com?](#www.google.com)
 
 ## Introduction
 
