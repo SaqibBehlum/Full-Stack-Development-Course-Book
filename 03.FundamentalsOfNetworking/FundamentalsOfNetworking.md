@@ -24,21 +24,25 @@
   right house, an IP address ensures that data packets reach the correct device on the internet.
 ----
 ## Client-Server Model
-![](
+
+  ![](/Image/Client Server Model.png)
 ------
 ## Protocol Stack and Packets
+
 ![](/
 -----
 ## How a Packet travels over Internet 
 - Packets are small pieces of data sent over the internet. They are given addresses, travel through routers, and are reassembled at the 
   destination. If any packets are lost, they are resent to complete the data.
- ![](/
+  
+![](/Image/how internet works across.jpg)
 -----
 ## Router and Routing Table
 - **Router**: A router is a device that connects multiple devices to the internet and each other. It sends data to the right destination, 
               acting like a traffic manager for networks. It also provides security features like firewalls to protect the network.
 - **Routing Table**:
-  ![](/
+  
+    ![](/Image/Routing table.jpg)
 -------
 ## Understand request for www.google.com 
 - A Google request is when a user enters a query in Google to find information. Google analyzes the query, determines the intent, and 
