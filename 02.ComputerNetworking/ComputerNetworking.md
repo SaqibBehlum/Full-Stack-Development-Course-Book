@@ -66,7 +66,7 @@
               Examples: A web server hosting a website or a database server storing information. 
 -----
 ## www.facebook.com (Domain)?
- -A domain name is a readable address (like www.facebook.com) used to find websites on the internet. It is translated into an IP address (a unique number) by the Domain Name System (DNS), allowing your browser to connect to the website’s server and display the content.
+ - A domain name is a readable address (like www.facebook.com) used to find websites on the internet. It is translated into an IP address (a unique number) by the Domain Name System (DNS), allowing your browser to connect to the website’s server and display the content.
 ![](/Image/how-do-domain-names-work-.png)
 ------
 
