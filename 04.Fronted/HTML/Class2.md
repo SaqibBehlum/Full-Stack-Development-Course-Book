@@ -44,7 +44,19 @@
   -  `<footer>` = Represents the footer of a document or section. Commonly contains copyright or contact information.
   -----
 ## Formatting Tag
-
+- A formatting tag is an element in markup languages like HTML, used to style and format text or content within a web document.
+    -  Examples: `<b>` : Makes text bold 
+    -  `<strong>` : Indicates strong importance (usually displayed as bold).
+    -  `<i>`   : Makes text italic.
+    -  `<em>`  : Indicates emphasized text (usually displayed as italic).
+    -  `<code>`: Formats text as computer code.
+    -  `<mark>`: Highlights text (yellow by default).
+    -  `<u>`   : Underlines text.
+    -  `<sub>` : Displays subscript text (smaller and below the baseline).
+    -  `<sup>` : Displays superscript text (smaller and above the baseline).
+## What is Attribute
+-  An attribute provides additional information about an element. Attributes are always defined within the opening tag of an element.
+   - -  Examples:   
 
 
   
