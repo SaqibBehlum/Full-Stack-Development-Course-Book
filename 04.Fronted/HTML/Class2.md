@@ -7,8 +7,9 @@
 - [What is Attribute](#what-is-attribute)
 - [HTML List](#html-list)
   - [Order List](#order-list)
-  - [Un-Order LIst](#un-oderolist)
-  - [descrption List](#descrption-list)
+  - [Un Order List](#un-odero-list)
+  - [Description List](#Descrption-list)
+- [Emmets](#emmets)
 - [Homework](#homewprk)
   - [Difference between Article and section](#difference-between-areticle-and-section)
 
@@ -54,9 +55,51 @@
     -  `<u>`   : Underlines text.
     -  `<sub>` : Displays subscript text (smaller and below the baseline).
     -  `<sup>` : Displays superscript text (smaller and above the baseline).
+    -----
 ## What is Attribute
 -  An attribute provides additional information about an element. Attributes are always defined within the opening tag of an element.
-   - -  Examples:   
+    - Attributes consist of a name and a value, separated by an equals sign (=). The value is enclosed in quotes (" or '), though 
+       quotes are optional in some cases.
+     -  Examples: 
+     - ![](/ 
+## HTML List 
+- Lists are used to group related items. There are three primary types of lists:
+  ## Order List
+  - An ordered list displays items in a specific order, usually numbered.
+     ```html
+    <ol>
+    <li>First item</li>
+    <li>Second item</li>
+    <li>Third item</li>
+        </ol>
+   html```
+  ## UnOrder List
+  - An unordered list displays items without a specific order, typically marked with bullets.
+   ```html
+    <ul>
+  <li>Apples</li>
+  <li>Oranges</li>
+  <li>Bananas</li>
+    </ul>
+
+ ## Description List
+  - A Description List in HTML is used to define a list of terms and their corresponding descriptions. It is typically used for 
+    glossaries, definitions, or other types of paired information.
+```html
+ <dl>
+  <dt>HTML</dt>
+  <dd>Hypertext Markup Language is the standard markup language for creating web pages.</dd>
+
+  <dt>CSS</dt>
+  <dd>Cascading Style Sheets is a style sheet language used for describing the look and formatting of a document.</dd>
+
+  <dt>JavaScript</dt>
+  <dd>A lightweight programming language used to create interactive effects within web browsers.</dd>
+</dl>
+```html
+
+
+
 
 
   
