@@ -81,12 +81,12 @@
   <li>Oranges</li>
   <li>Bananas</li>
     </ul>
-
- ## Description List
+  ```
+  ## Description List
   - A Description List in HTML is used to define a list of terms and their corresponding descriptions. It is typically used for 
     glossaries, definitions, or other types of paired information.
-```html
- <dl>
+   ```html
+  <dl>
   <dt>HTML</dt>
   <dd>Hypertext Markup Language is the standard markup language for creating web pages.</dd>
 
@@ -95,8 +95,8 @@
 
   <dt>JavaScript</dt>
   <dd>A lightweight programming language used to create interactive effects within web browsers.</dd>
-</dl>
-```
+  </dl>
+  ```
 -----
 ## What is Emmets
 -  Write a short abbreviation, and Emmet expands it into a full code block.
