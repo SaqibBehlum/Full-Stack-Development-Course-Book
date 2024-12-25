@@ -9,7 +9,7 @@
   - [Order List](#order-list)
   - [Un Order List](#un-odero-list)
   - [Description List](#Descrption-list)
-- [Emmets](#emmets)
+- [What is Emmets](#what-is-emmets)
 - [Homework](#homewprk)
   - [Difference between Article and section](#difference-between-areticle-and-section)
 
@@ -72,7 +72,7 @@
     <li>Second item</li>
     <li>Third item</li>
         </ol>
-   html```
+    ```
   ## UnOrder List
   - An unordered list displays items without a specific order, typically marked with bullets.
    ```html
@@ -96,7 +96,12 @@
   <dt>JavaScript</dt>
   <dd>A lightweight programming language used to create interactive effects within web browsers.</dd>
 </dl>
-```html
+```
+-----
+## What is Emmets
+-  Write a short abbreviation, and Emmet expands it into a full code block.
+-  Example: `ul>li.item$*3`
+-----
 
 
 
