@@ -11,10 +11,10 @@
      create a complete, functional website.
 -------
 ## What is Element
-![](Image/Element-in-HTML.png)
+   ![](/Image/Element-in-HTML.png)
 ----
 ## Types of Elements in HTML
- ![](Image/Block-Level-Elements-Html.webp)
+   ![](/Image/Block-Level-Elements-Html.webp)
  ## Inline Element
   - An inline element stays in the same line as other elements.
   - example of code: ```<p>This is a <span style="color: red;">red word</span> inside a paragraph.</p>```
