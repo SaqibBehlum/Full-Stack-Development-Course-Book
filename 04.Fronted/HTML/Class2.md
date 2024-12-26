@@ -61,8 +61,8 @@
 -  An attribute provides additional information about an element. Attributes are always defined within the opening tag of an element.
     - Attributes consist of a name and a value, separated by an equals sign (=). The value is enclosed in quotes (" or '), though 
        quotes are optional in some cases.
-     -  Examples: 
-     -   ![](/Image/Attributes in html.jpeg) 
+     -  Examples:
+![](/Image/Attributes in html.jpeg)
 ## HTML List 
 - Lists are used to group related items. There are three primary types of lists:
   ## Order List
